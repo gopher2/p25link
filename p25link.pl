@@ -57,7 +57,7 @@ print "	Juan Carlos Pérez KM4NNO / XE1F\n";
 print "	Byan Fields W9CR\n";
 print "	Jonathan Naylor G4KLX\n";
 print "	David Kraus NX4Y\n";
-print "	David Kierzkowski KD8EYF\n";
+print "	David Kierzkowski K9DPD\n";
 print "##################################################################\n\n";
 
 # Load Settings ini file.
